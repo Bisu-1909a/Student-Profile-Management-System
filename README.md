@@ -101,7 +101,7 @@ python main.py
 
 ##  Screenshots
 
-Screenshots will be added soon.
+Screenshots are also provided.
 
 ---
 
