@@ -121,7 +121,7 @@ Screenshots are also provided.
 
 - GitHub: https://github.com/Bisu-1909a/Student-Profile-Management-System.git
 
-- LinkedIn: https://linkedin.com/in/biswajeet-ojha-9176a1387/?skipRedirect=true
+- LinkedIn: https://linkedin.com/in/biswajeet-ojha-9176a1387
 
 ---
 
